@@ -1,0 +1,10 @@
+{
+  "name": "typescript-advance",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "tsc --project . && node"
+  },
+  "dependencies": {
+    "typescript": "^4.4.4"
+  }
+}
